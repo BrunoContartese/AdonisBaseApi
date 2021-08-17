@@ -33,7 +33,7 @@ SMTP_HOST=
 SMTP_PORT=465
 SMTP_USERNAME=
 SMTP_PASSWORD=
-SMTP_FROM_EMAIL="soporte@estoes.me"
+SMTP_FROM_EMAIL="bruno.a.contartese@gmail.com"
 ```
 
 ## Cargar esquema de la base de datos
@@ -84,3 +84,6 @@ $ node ace make:mailer nombre_modulo/nombre_de_mailer
 ```
 $ node ace list:routes Devuelve una lista de las rutas declaradas en la aplicación
 ```
+
+### Links de utilidad
+Página oficial AdonisJS[https://adonisjs.com/]
