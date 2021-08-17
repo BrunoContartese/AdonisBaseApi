@@ -1,4 +1,5 @@
-# baseline rest api
+# Aplicación base
+Aplicación base para realizar fork en nuevas aplicaciones.
 
 ### Instalación de paquetes necesarios
 
@@ -86,4 +87,4 @@ $ node ace list:routes Devuelve una lista de las rutas declaradas en la aplicaci
 ```
 
 ### Links de utilidad
-[Página web oficial de AdonisJS](https://adonisjs.com/)
+- [Página web oficial de AdonisJS](https://adonisjs.com/)
